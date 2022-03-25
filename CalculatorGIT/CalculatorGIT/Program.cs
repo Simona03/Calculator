@@ -39,12 +39,16 @@ namespace CalculatorGIT
         }
         private static int Pow(string[] vs)
         {
-            throw new NotImplementedException();
+            int Num1 = int.Parse(vs[0]);
+            int Num2 = int.Parse(vs[1]);
+            return Math.Pow(Num1, Num2);
         }
 
         private static int Div(string[] vs)
         {
-            throw new NotImplementedException();
+            int Num1 = int.Parse(vs[0]);
+            int Num2 = int.Parse(vs[1]);
+            return Num1 / Num2;
         }
 
         private static int Mult(string[] vs)
