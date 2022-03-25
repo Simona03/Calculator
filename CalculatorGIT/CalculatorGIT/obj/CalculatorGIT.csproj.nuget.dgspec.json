@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\student\\Desktop\\simona\\CalculatorGIT\\CalculatorGIT\\CalculatorGIT.csproj": {}
+    "C:\\Users\\student\\Desktop\\git_calculator\\CalculatorGIT\\CalculatorGIT\\CalculatorGIT.csproj": {}
   },
   "projects": {
-    "C:\\Users\\student\\Desktop\\simona\\CalculatorGIT\\CalculatorGIT\\CalculatorGIT.csproj": {
+    "C:\\Users\\student\\Desktop\\git_calculator\\CalculatorGIT\\CalculatorGIT\\CalculatorGIT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\student\\Desktop\\simona\\CalculatorGIT\\CalculatorGIT\\CalculatorGIT.csproj",
+        "projectUniqueName": "C:\\Users\\student\\Desktop\\git_calculator\\CalculatorGIT\\CalculatorGIT\\CalculatorGIT.csproj",
         "projectName": "CalculatorGIT",
-        "projectPath": "C:\\Users\\student\\Desktop\\simona\\CalculatorGIT\\CalculatorGIT\\CalculatorGIT.csproj",
+        "projectPath": "C:\\Users\\student\\Desktop\\git_calculator\\CalculatorGIT\\CalculatorGIT\\CalculatorGIT.csproj",
         "packagesPath": "C:\\Users\\student\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\student\\Desktop\\simona\\CalculatorGIT\\CalculatorGIT\\obj\\",
+        "outputPath": "C:\\Users\\student\\Desktop\\git_calculator\\CalculatorGIT\\CalculatorGIT\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\student\\AppData\\Roaming\\NuGet\\NuGet.Config",
