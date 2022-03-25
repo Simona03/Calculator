@@ -1,0 +1,16 @@
+C:\Users\student\Desktop\simona\CalculatorGIT\CalculatorGIT\bin\Debug\net5.0\CalculatorGIT.exe
+C:\Users\student\Desktop\simona\CalculatorGIT\CalculatorGIT\bin\Debug\net5.0\CalculatorGIT.deps.json
+C:\Users\student\Desktop\simona\CalculatorGIT\CalculatorGIT\bin\Debug\net5.0\CalculatorGIT.runtimeconfig.json
+C:\Users\student\Desktop\simona\CalculatorGIT\CalculatorGIT\bin\Debug\net5.0\CalculatorGIT.runtimeconfig.dev.json
+C:\Users\student\Desktop\simona\CalculatorGIT\CalculatorGIT\bin\Debug\net5.0\CalculatorGIT.dll
+C:\Users\student\Desktop\simona\CalculatorGIT\CalculatorGIT\bin\Debug\net5.0\ref\CalculatorGIT.dll
+C:\Users\student\Desktop\simona\CalculatorGIT\CalculatorGIT\bin\Debug\net5.0\CalculatorGIT.pdb
+C:\Users\student\Desktop\simona\CalculatorGIT\CalculatorGIT\obj\Debug\net5.0\CalculatorGIT.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\simona\CalculatorGIT\CalculatorGIT\obj\Debug\net5.0\CalculatorGIT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\simona\CalculatorGIT\CalculatorGIT\obj\Debug\net5.0\CalculatorGIT.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\simona\CalculatorGIT\CalculatorGIT\obj\Debug\net5.0\CalculatorGIT.AssemblyInfo.cs
+C:\Users\student\Desktop\simona\CalculatorGIT\CalculatorGIT\obj\Debug\net5.0\CalculatorGIT.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\simona\CalculatorGIT\CalculatorGIT\obj\Debug\net5.0\CalculatorGIT.dll
+C:\Users\student\Desktop\simona\CalculatorGIT\CalculatorGIT\obj\Debug\net5.0\ref\CalculatorGIT.dll
+C:\Users\student\Desktop\simona\CalculatorGIT\CalculatorGIT\obj\Debug\net5.0\CalculatorGIT.pdb
+C:\Users\student\Desktop\simona\CalculatorGIT\CalculatorGIT\obj\Debug\net5.0\CalculatorGIT.genruntimeconfig.cache

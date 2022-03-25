@@ -16,6 +16,7 @@ namespace CalculatorGIT
                 {
                     case "+":
                         output = Add(commandArgs.Skip(1).ToArray());
+
                         break;
                     case "-":
                         output = Sub(commandArgs.Skip(1).ToArray());
@@ -32,7 +33,10 @@ namespace CalculatorGIT
                     default:
                         break;
                 }
+                input = Console.ReadLine();
+                Console.WriteLine(output);
             }
         }
+        
     }
 }
