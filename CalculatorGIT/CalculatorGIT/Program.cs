@@ -37,6 +37,35 @@ namespace CalculatorGIT
                 Console.WriteLine(output);
             }
         }
-        
+        private static int Pow(string[] vs)
+        {
+            throw new NotImplementedException();
+        }
+
+        private static int Div(string[] vs)
+        {
+            throw new NotImplementedException();
+        }
+
+        private static int Mult(string[] vs)
+        {
+            int Num1 = int.Parse(vs[0]);
+            int Num2 = int.Parse(vs[1]);
+            return Num1 * Num2;
+        }
+
+        private static int Sub(string[] vs)
+        {
+            int Num1 = int.Parse(vs[0]);
+            int Num2 = int.Parse(vs[1]);
+            return Num1 - Num2;
+        }
+
+        private static int Add(string[] vs)
+        {
+            int Num1 = int.Parse(vs[0]);
+            int Num2 = int.Parse(vs[1]);
+            return Num1 + Num2;
+        }
     }
 }
